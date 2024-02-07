@@ -15,6 +15,7 @@ This repository contains the solution for the proposed Data Science challenge, i
 - **/notebooks**: Jupyter notebooks containing exploratory analysis and model construction.
 - **/models**: Folder to store the trained model in .pkl format.
 - **/reports**: PDF reports of exploratory analyses.
+- - **/requirements**: Requirements file.
 
 ## Prerequisites
 
