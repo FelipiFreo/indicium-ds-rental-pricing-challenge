@@ -25,9 +25,9 @@ This repository contains the solution for the proposed Data Science challenge, i
 ## How to Run
 
 1. Clone the repository: `git clone https://github.com/FelipiFreo/indicium-ds-rental-pricing-challenge.git`
-2. Navigate to the directory: `cd Desafio-Data-Science`](https://github.com/FelipiFreo/indicium-ds-rental-pricing-challenge/tree/main)
+2. Enter indicium_ds_rental_pricing_challenge.ipynb
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the notebooks in the /notebooks directory in the desired order.
+4. Run the notebooks in the desired order.
 
 ## Exploratory Analysis Results
 
